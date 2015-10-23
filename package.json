@@ -1,0 +1,20 @@
+{
+  "name": "shenanigans",
+  "version": "1.0.0",
+  "description": "A sane way to do errors in a node app",
+  "author": "Caleb Meredith",
+  "license": "MIT",
+  "homepage": "https://github.com/calebmer/shenanigans#readme",
+  "keywords": [
+    "errors",
+    "error",
+    "message",
+    "http",
+    "parse"
+  ],
+  "repository": "calebmer/shenanigans",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
