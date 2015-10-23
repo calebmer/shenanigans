@@ -1,6 +1,6 @@
 {
   "name": "shenanigans",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A sane way to do errors in a node app",
   "author": "Caleb Meredith",
   "license": "MIT",
