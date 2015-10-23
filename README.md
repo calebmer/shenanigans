@@ -39,3 +39,15 @@ ${status code}: ${message} (${hint})
 ```
 
 Where status code is a number.
+
+## API
+
+### Shenanigans.parse(message[, options])
+
+Parses the message and returns an info object.
+
+Options are booleans which enable/disable features, they are all true by default and they include:
+
+- `statusCode`: Parse the HTTP status code
+- `hint`: Parse the hint
+- `assertion`: Enable the assertion error special case
