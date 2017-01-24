@@ -1,5 +1,7 @@
 # shenanigans
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/calebmer/shenanigans.svg)](https://greenkeeper.io/)
+
 A sane way to do errors in a node app.
 
 How you ask?
